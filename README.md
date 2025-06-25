@@ -12,7 +12,7 @@ SASS is a preprocessor scripting language that is interpreted or compiled into C
 - Preprocessing (sass input.scss output.css)
 - Variables
   
- ```$font-stack: Helvetica, sans-serif;
+ $font-stack: Helvetica, sans-serif;
    $primary-color: #333;
   body {
     font: 100% $font-stack;
