@@ -11,7 +11,7 @@ SASS is a preprocessor scripting language that is interpreted or compiled into C
 **Features** : - 
 - Preprocessing (sass input.scss output.css)
 - Variables
-  ` sdfsd
+  `sdfsd`
 - Nesting
 - Partials
 - Modules
