@@ -67,4 +67,13 @@ Flexbox is a layout method for arranging items in rows or columns. Flexbox makes
 * flex-end  
 * space-around  
 * space-between  
-* space-evenly  
+* space-evenly
+
+> [!IMPORTANT]
+> Flex Items
+order  
+flex-grow  
+flex-shrink  
+flex-basis  
+flex  
+align-self  
