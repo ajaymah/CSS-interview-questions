@@ -28,38 +28,38 @@ Flexbox is a layout method for arranging items in rows or columns. Flexbox makes
 >**Flex Container**  
 `.flex-container {
   display: flex;
-  }`
+  }`  
 
 **flex-direction**  
-row
-column
-row-reverse
-column-reverse
-**flex-wrap**  
-nowrap
-wrap
-wrap-reverse
-**flex-flow**  
-row wrap
-**justify-content**  
-center
-flex-start
-flex-end
-space-around
-space-between
-space-evenly
-**align-items**
-center
-flex-start
-flex-end
-stretch
-baseline
-normal
-**align-content**
-center
-stretch
-flex-start
-flex-end
-space-around
-space-between
-space-evenly
+row  
+column  
+row-reverse  
+column-reverse  
+**flex-wrap**    
+nowrap  
+wrap  
+wrap-reverse  
+**flex-flow**    
+row wrap  
+**justify-content**    
+center  
+flex-start  
+flex-end  
+space-around  
+space-between  
+space-evenly  
+**align-items**  
+center  
+flex-start  
+flex-end  
+stretch  
+baseline  
+normal  
+**align-content**  
+center  
+stretch  
+flex-start  
+flex-end  
+space-around  
+space-between  
+space-evenly  
