@@ -78,8 +78,8 @@ flex
 align-self
 
 ### 4. CSS Pseudo-classes ###
-A pseudo-class is used to define a special state of an element
-like - :active  :hover  :visited
+A pseudo-class is used to define a special state of an element  
+like - :active  :hover  :visited  
 :checked  :empty  :enabled  :first  :first-child  :last-child  :first-of-type  :nth-child()  
 
 ### 5. CSS Pseudo-elements ###  
