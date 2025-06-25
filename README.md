@@ -8,3 +8,12 @@ With features such as variables, nesting, and mixins, Sass enables developers to
 ### 2. What is a SASS in CSS? ###
 
 SASS is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets (CSS)
+**Features** : - 
+# - Preprocessing (sass input.scss output.css)
+- Variables
+- Nesting
+- Partials
+- Modules
+- Mixins
+- Inheritance
+- Operators
