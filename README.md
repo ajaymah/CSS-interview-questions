@@ -34,32 +34,37 @@ Flexbox is a layout method for arranging items in rows or columns. Flexbox makes
 * row  
 * column  
 * row-reverse  
-* column-reverse  
+* column-reverse
+   
 **flex-wrap**    
-nowrap  
-wrap  
-wrap-reverse  
+* nowrap  
+* wrap  
+* wrap-reverse
+  
 **flex-flow**    
-row wrap  
+* row wrap
+  
 **justify-content**    
-center  
-flex-start  
-flex-end  
-space-around  
-space-between  
-space-evenly  
+* center  
+* flex-start  
+* flex-end  
+* space-around  
+* space-between  
+* space-evenly
+  
 **align-items**  
-center  
-flex-start  
-flex-end  
-stretch  
-baseline  
-normal  
+* center  
+* flex-start  
+* flex-end  
+* stretch  
+* baseline  
+* normal
+  
 **align-content**  
-center  
-stretch  
-flex-start  
-flex-end  
-space-around  
-space-between  
-space-evenly  
+* center  
+* stretch  
+* flex-start  
+* flex-end  
+* space-around  
+* space-between  
+* space-evenly  
