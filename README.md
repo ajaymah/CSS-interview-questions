@@ -31,10 +31,10 @@ Flexbox is a layout method for arranging items in rows or columns. Flexbox makes
   }`  
 
 **flex-direction**  
-row  
-column  
-row-reverse  
-column-reverse  
+* row  
+* column  
+* row-reverse  
+* column-reverse  
 **flex-wrap**    
 nowrap  
 wrap  
