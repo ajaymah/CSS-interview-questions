@@ -18,7 +18,7 @@ SASS is a preprocessor scripting language that is interpreted or compiled into C
     color: $primary-color;
   }```
 - Nesting
-- Partials
+- Partials - ( _partial.scss)  
 - Modules
 - Mixins
 - Inheritance
