@@ -10,15 +10,13 @@ With features such as variables, nesting, and mixins, Sass enables developers to
 SASS is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets (CSS)
 **Features** : - 
 - Preprocessing (sass input.scss output.css)
-- Variables
-  
+- Variables    
  $font-stack: Helvetica, sans-serif;
    $primary-color: #333;
   body {
     font: 100% $font-stack;
     color: $primary-color;
-  }
-
+  }  
 - Nesting
 - Partials
 - Modules
