@@ -85,4 +85,38 @@ like - :active  :hover  :visited
 ### 5. CSS Pseudo-elements ###  
 A CSS pseudo-element is used to style specific parts of an element.  
 ::after  ::before  
-::first-letter  ::first-line  ::selection ::highlight()  
+::first-letter  ::first-line  ::selection ::highlight() 
+
+### 6. CSS 3 column layout with responsive ### 
+```diff
+#wrapper {
+width:100%;
+height:auto;
+border:0px solid #ff0000;
++display:flex;
++flex-wrap: wrap;
+padding:0px;
++gap:10px;
+text-align:center;
+}
+div.test{
+height:auto;
+border:5px solid #ddd;
+padding:10px;
++flex: 0 0 calc(33.3333% - 10px);
+box-sizing:border-box;  
+}
+button{
+  cursor:pointer;
+}
+@media (min-width: 0px) and (max-width: 500px) {
+  div.test {
+   flex: 0 0 calc(100% - 10px);
+  }
+}
+@media (min-width: 501px) and (max-width: 720px) {
+  div.test {
+   flex: 0 0 calc(50% - 10px);
+  }
+}
+```
