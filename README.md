@@ -148,3 +148,5 @@ Key characteristics of semantic elements:
 **<footer>**: Represents a footer for its nearest sectioning content or sectioning root element.  
 **<figure>** and <figcaption>: Used for self-contained content like images, diagrams, or code snippets, with figcaption providing a caption.  
 **<time>**: Represents a specific period in time or a date.  
+
+### debouncing and throttling in javascript ###
