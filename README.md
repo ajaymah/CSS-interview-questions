@@ -120,3 +120,31 @@ button{
   }
 }
 ```
+### 7 -What is the CSS position property, and what is its default value? ###
+**The position property controls** -  how an element is positioned on a webpage. Its default value is static.    
+**Relative** -relative elements are positioned relative to their normal position in the document    
+**Absolute** - absolute elements are removed from the normal document flow, and positioned relative to their closest positioned  
+**fixed** - same position on the screen even when the page is scrolled  
+**Sticky** - sticky elements behave like relative until a certain scroll position is reached, 
+Note- property top, left, right, bottom , z-index
+
+### 8- What is dom ###  
+The Document Object Model (DOM) is a programming interface that represents an HTML document as a tree of nodes,  
+
+### 9 - what is samentic element ###  
+Semantic elements in HTML are tags that clearly describe their meaning and purpose to both the browser and the developer.  
+**non-semantic elements** like <div> and <span>
+Key characteristics of semantic elements:  
+1- **Meaningful structure:** making it easier for humans and machines to understand the content.
+2- **Improved accessibility:** Semantic elements enhance accessibility for users of assistive technologies like screen readers, 
+3- **SEO benefits:** Search engines can more effectively understand the content and context of a page marked up with semantic elements, potentially leading to better search engine rankings.
+**common semantic elements**
+**<header>:** Represents introductory content or a set of navigational links.  
+**<nav>:** Defines a section containing navigation links.  
+**<main>**: Represents the dominant content of the <body>.  
+**<article>**: Represents a self-contained composition in a document, page, application, or site, intended to be independently distributable or reusable.  
+**<section>**: Represents a standalone section of content within an HTML document.  
+**<aside>**: Represents a section of a page that consists of content tangentially related to the content around it.  
+**<footer>**: Represents a footer for its nearest sectioning content or sectioning root element.  
+**<figure>** and <figcaption>: Used for self-contained content like images, diagrams, or code snippets, with figcaption providing a caption.  
+**<time>**: Represents a specific period in time or a date.  
