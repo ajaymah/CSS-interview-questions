@@ -133,7 +133,7 @@ The Document Object Model (DOM) is a programming interface that represents an HT
 
 ### 9 - what is samentic element ###  
 Semantic elements in HTML are tags that clearly describe their meaning and purpose to both the browser and the developer.  
-**non-semantic elements** like <div> and <span>
+```**non-semantic elements** like <div> and <span>
 Key characteristics of semantic elements:  
 1- **Meaningful structure:** making it easier for humans and machines to understand the content.
 2- **Improved accessibility:** Semantic elements enhance accessibility for users of assistive technologies like screen readers, 
@@ -148,5 +148,7 @@ Key characteristics of semantic elements:
 **<footer>**: Represents a footer for its nearest sectioning content or sectioning root element.  
 **<figure>** and <figcaption>: Used for self-contained content like images, diagrams, or code snippets, with figcaption providing a caption.  
 **<time>**: Represents a specific period in time or a date.  
-
-### debouncing and throttling in javascript ###
+```  
+### what is box model in css ###
+The CSS Box Model is a fundamental concept in web design and layout, describing how HTML elements are rendered as rectangular boxes  
+Every HTML element on a webpage is treated as a box, that should have margins, padding, borders and Content Area
