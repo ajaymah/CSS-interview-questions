@@ -154,8 +154,8 @@ The CSS Box Model is a fundamental concept in web design and layout, describing 
 Every HTML element on a webpage is treated as a box, that should have margins, padding, borders and Content Area
 
 ### media tag auto play video ###
-```
-<video width="320" height="240" controls **autoplay**>
+```diff
++<video width="320" height="240" controls autoplay>
   <source src="movie.mp4" type="video/mp4">
   <source src="movie.ogg" type="video/ogg">
   Your browser does not support the video tag.
