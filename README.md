@@ -152,3 +152,12 @@ Key characteristics of semantic elements:
 ### what is box model in css ###
 The CSS Box Model is a fundamental concept in web design and layout, describing how HTML elements are rendered as rectangular boxes  
 Every HTML element on a webpage is treated as a box, that should have margins, padding, borders and Content Area
+
+### media tag auto play video ###
+```
+<video width="320" height="240" controls **autoplay**>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
+```
