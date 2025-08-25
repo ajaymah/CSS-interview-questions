@@ -161,3 +161,10 @@ Every HTML element on a webpage is treated as a box, that should have margins, p
   Your browser does not support the video tag.
 </video>
 ```
+
+### what is the difference between em rem and px ###
+In CSS, px, em, and rem are units of measurement,  
+**Pixels (px):** - A pixel is a fixed unit of length, 16px will always be 16 pixels, regardless of the parent element's font size.   
+**em:** - The em unit is relative to the font size of the element's parent. For example, if an element's font size is set to 16px and a child element has a font size of 2em, the child element will be 32px (2 * 16px).   
+**rem:** - The rem unit is relative to the font size of the root element, usually the html tag.   
+>Note: Rem is useful for creating scalable designs, em is useful for creating responsive designs, and px is useful for fixed-size elements.
