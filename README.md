@@ -24,7 +24,13 @@ SASS is a preprocessor scripting language that is interpreted or compiled into C
 - Inheritance
 - Operators
 ### 3. What is flexbos in css ###  
+Flexbox is short for the **Flexible Box Layout module**  
 Flexbox is a layout method for arranging items in rows or columns. Flexbox makes it easier to design a flexible responsive layout structure  
+
+**Flexbox vs. Grid**  
+The CSS Flexbox Layout should be used for **one-dimensional** layout, with rows OR columns.  
+The CSS Grid Layout should be used for **two-dimensional layout**, with rows AND columns.  
+
 >**Flex Container**  
 `.flex-container {
   display: flex;
